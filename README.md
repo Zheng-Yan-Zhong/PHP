@@ -42,7 +42,7 @@ phpinfo()
 
 ## Variable
 php的變數使用`$`宣告
-```php!
+```php
 <?php
     $name = "Dennis";
     echo $name;
@@ -102,7 +102,7 @@ var_dump($user) //string(6) "Dennis"
 ---
 
 ## Data Types
-```php!
+```php
 <?php
 //string
 $name = "Dennis";
